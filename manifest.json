@@ -1,8 +1,8 @@
 {
- "version": "2026-11-25c",
- "file": "LV_Terminal_2026-11-25c.zip",
- "size": 474138,
- "sha256": "a12e83c698e307cd82815c9036a07ced3fe96f2060881971c5f6f6d28d94717c",
- "notes": "Arreglos 25-nov: grafica del SPY en premarket (vela en vivo, ya no muestra el cierre de ayer); robot de lineas: si cierras tu el spread lo detecta solo, no choca con tu orden de salida, guarda el motivo si Tradier rechaza y Cerrar ya vuelve a intentar; Trading manual avisa si cierras una posicion del robot; linea horizontal del grafico con cuadro para escribir el precio exacto.",
- "sig": "7b435b593984fc15bb7c3cacf9339ca2b5b668ddd9469f1317ccfdedc015f97ac52f2c34377dbe8db174ca095b41f65ace197a9828440c0e5dd9a2c1f71d804997453c0b3ea9de66a8ded2e687e8c31c15056d40ea1dd4479322eed7540752bef8bc67fb62b5f9c47b41d3211d9c35af4ce258fc2e885aa67e24a5142fad3fb5c6b5b41049fda267b2e8f7f0951bb244c614a85b83fd0154d0a8f23300f9e9a621125420f77eaaacf8a0fc3a78fac224177c795344f1064fe97eb0191122b9c1355502ec7072f8f227786742dba97db053cdda2612534da3a684884aabae780cb0c0b015460d362f2a4d14c210b13c2ae0af28ab4a32a4497ce5bbede1d11cffc9c45121f37bbefcca7b992a946b5a718ab47586301730f40be452b8299fa32c313fd5a54b0f149ae12e4951078dd4131a29451b0302286437f492683cfceff9cff7a94f6b21a28a2058ee5a0c7dee929493c5199c6b1bb06031ceb7777c3a4ef9a29adefda65c0ad656e8d899d40c8f47cf252208470cb6716c29a75bbb17cb"
+ "version": "2026-11-25d",
+ "file": "LV_Terminal_2026-11-25d.zip",
+ "size": 474475,
+ "sha256": "79f11cdf35d9f277daa4051cea55bd240f8d5aae0e7ff308587e24c7ec48b5b4",
+ "notes": "Nuevo: lapiz en las herramientas de dibujo del grafico (manten apretado el clic y dibuja a mano; Esc o clic derecho para salir). Cada trazo se puede mover, cambiar de color, bloquear o borrar.",
+ "sig": "3c4805d8f31687aa35e18f054004026e56b21935afb367b1e9ff54b4e85461dca8922187235d343876c8c6974cd791eb2b9db8b47bbfad4add1bcd854020badd0ab81b18ed9f7784e7f681edd04466a5b285f0fd1d95c48fff621d0e222b198edcb29348a3257d854f906e0331fff3b4a9f38d5a23a7a7f6f36488e3dcef91ce54df0e1ac84a57512cdb91ba1d40ddc0129ef398eb836add8f75c3fc05d2231ce86782064fc1120cb08c3994caa791b3c6e7a6732f3885bf41a2b7382fbfe33afa9b6459a1c28268f5a907febe3911df399fdcadc0e8c1688a9667bdbb79c67d5a4a5ef83499bccf055302246c0087b185adb8157d82a293792de73f1c313681396ab920812ad5cfb6deceacf95a7597e89e241b269d225f17b837e5194f077bfe95e7a60b9c33584dde07ce351da939e2a908294126688a76ca140060655cfab1355de85241481b83470be99b028712e042a9d5fc395282e13a544f8edb063a3006a6fcc68f48c040a543f2272ff2381ee743f40cd34aa7765021349ee6e44e"
 }
