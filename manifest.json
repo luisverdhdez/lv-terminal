@@ -1,8 +1,8 @@
 {
- "version": "2026-11-25d",
- "file": "LV_Terminal_2026-11-25d.zip",
- "size": 474475,
- "sha256": "79f11cdf35d9f277daa4051cea55bd240f8d5aae0e7ff308587e24c7ec48b5b4",
- "notes": "Nuevo: lapiz en las herramientas de dibujo del grafico (manten apretado el clic y dibuja a mano; Esc o clic derecho para salir). Cada trazo se puede mover, cambiar de color, bloquear o borrar.",
- "sig": "3c4805d8f31687aa35e18f054004026e56b21935afb367b1e9ff54b4e85461dca8922187235d343876c8c6974cd791eb2b9db8b47bbfad4add1bcd854020badd0ab81b18ed9f7784e7f681edd04466a5b285f0fd1d95c48fff621d0e222b198edcb29348a3257d854f906e0331fff3b4a9f38d5a23a7a7f6f36488e3dcef91ce54df0e1ac84a57512cdb91ba1d40ddc0129ef398eb836add8f75c3fc05d2231ce86782064fc1120cb08c3994caa791b3c6e7a6732f3885bf41a2b7382fbfe33afa9b6459a1c28268f5a907febe3911df399fdcadc0e8c1688a9667bdbb79c67d5a4a5ef83499bccf055302246c0087b185adb8157d82a293792de73f1c313681396ab920812ad5cfb6deceacf95a7597e89e241b269d225f17b837e5194f077bfe95e7a60b9c33584dde07ce351da939e2a908294126688a76ca140060655cfab1355de85241481b83470be99b028712e042a9d5fc395282e13a544f8edb063a3006a6fcc68f48c040a543f2272ff2381ee743f40cd34aa7765021349ee6e44e"
+ "version": "2026-11-25e",
+ "file": "LV_Terminal_2026-11-25e.zip",
+ "size": 478635,
+ "sha256": "0cd92e5d6cd4668205285f0550eb35a6a0db64d73f677aeb4ab72bbd3b6f6a95",
+ "notes": "tastytrade: ya se pueden mandar ordenes desde la terminal (Trading manual y roll de covered calls en Portafolio): vista previa, enviar, ver, cambiar precio y cancelar, con confirmacion de dinero real en cada orden. Requiere que tu acceso (grant) de tastytrade tenga el permiso trade. Los robots y el gestor no operan con tastytrade.",
+ "sig": "2147b3a19d40a6d7ed3c59b297fc3aff415859c986458f135eab59aaa30e03c35d474b01084a6f2a8d6d1673ed80a1db77d634db39998ca3904406a4d795ec70fa512acd0070fd47dd495d1228c5c5c134e9784a1c6976f8329a47ceb100c2c41c606a6117e0d5c2ab6565884105a6604b3ca192cd6d49e38143c952c8dacf7085401ea57d135f60508f1dbf85b5dffb26b53b14f30c956e3d5411c6299cf690e16a741c865dacc9214a161c404fd4dd79a20d50a361106b78afd726f4baa2974f8fce2928d0700501ed274d288fc49e67a7bebab0518e8166f07f6a1b3b0ea7ada0448a1735accc9f135f47e5af8fe19913419fd010795845ecd273576fce498364f58ba963630549e027b2ec44b557300aaceca6b71d2028f168c79094479032efc49eaab1e490f0f4dc35b1da0903917ae36a3d2d8f9d31ceace8295df7d8cfde5abcbf56576e113f7be9c84061e009f3e0b77d8dd53549e9197f76d2a5fee6e5b5dded21e05bb66d3a54d26ba579dff2d36b58669cc4e195494c0a5ef7ca"
 }
