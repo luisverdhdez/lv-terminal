@@ -1,8 +1,8 @@
 {
- "version": "2026-11-27",
- "file": "LV_Terminal_2026-11-27.zip",
- "size": 480483,
- "sha256": "aba9a47a096300c20a2b99b09796c3abcc16d6238cd6aa94ce975ac1e1ae04b9",
- "notes": "Grafico: la Corona 1-3-5 ahora se ve solo como corona (sin bolita). Discord: enlace en el menu de Inicio (abre Discord en una pestana junto a la terminal) y avisos a tu canal de Discord (en Cuentas).",
- "sig": "7c5f134c9a486150ed567be852d4814b5e385b2b7dd328fada99e42df6b77cad051b451dbdf0b55de551a564c22fb0cc329664be8f4f583c4377ca99b0ca61f92ba6496b8d08a7ae19ec57a5c6e33cdee18929e1e2fde957f90dbb6d3578f81a841a107f7c875a46715eca119c780c481f8ca23906733eef52ee17984519c08c9f1862743b7c3c39ce43ac821155d23f641c2bb1e734e126e688b0182be63350e3e9b2f25a035f2d8075a42932093af77f0392dcb1cd1ba79e49c81275d2de91c9482d9bb90b1cba5ce5eb570b0b3f8225c3891ba6ec754eef316580fb15179d5381532097d6cdb9c9858b57023bcd80907dd7fadf72f8cb5ba7332966ec54992080763f2c89dadc3cc6ffe856245c1ebc023619333d81670f6d63d778c6a73b60258e4226572215b7b67429c5daece866c063de7109325f6a14e93e9c479ab9e396c8d6cb4ab3e8ed3d164117664792280ddbe4243ba65b62d7e5a632047ac2efcbc8c0d78a369e1b455875bf7a2dfef4105afdcc3628d4a61da646c821ed12"
+ "version": "2026-11-27b",
+ "file": "LV_Terminal_2026-11-27b.zip",
+ "size": 482008,
+ "sha256": "7e49711f6e40236a78c95fc968e9b1de78fc7e0904882d9c68ec99b42a8979b8",
+ "notes": "Gestor: el bot\u00f3n Vigilar tambi\u00e9n puede dejar la orden de ganancia en Tradier, y en posiciones de varios d\u00edas (ej. iron condor a 49 d\u00edas) esa orden queda HASTA CANCELAR y no se cierra por la hora. Trading manual: orden de ganancia puesta en Tradier en cuanto se llena la entrada (casilla en el gestor), el gestor (con stop) viene marcado por defecto, y botones Ganar +$25/+$50/+$75/+$100 en el cuadro de Cerrar. Grafico: la Corona se ve solo como corona.",
+ "sig": "99cd8651e6ad1d534a79b3de7e651e4236924f10ff36d7e479b74e8431e8628bc67ccbfc28aa1520a5d9cc6fc0c0397adab0b64e09e520ae4882480ebf234eb2ca470275f0dbc0dce1f9d49590944d3d0f799cfef838788c7fdce15942085394afaafee98ce3041c661f8439fdb32eb2a39d886d3b3c9e47c5b19a19175a981f352bac3c2ba46515c33c83795c5bbee1772cb9fc6cf2b0b15e096c2b3c6adbcb27408748807d40b38abeb36f547c6c3a980a4c5d1207f0156706469eb954714d251be056ecf6c5832ca347d97517f6acf90d2c9b758799e56190837bc99dc277d667adcac706e995e835fc590ea65bc5caa2855a4e21da6c194ad1b547982e9ac21c93f5b17b927b1a4936f5f84861121ba60ad1c3ba7e9b9058ff7994181c83ee1260e23300d4a1d09098df2836bb705ae47d6299cd3ff9c7627cca4a2a2717e1b6b9880ba629457c9b7a1d8285f17fcd0fc5c9c59e5e6fffa7b471c712a72ee519afb98da6cd08181f1da13b7783a4ce89b75d0fc64e310980e4267a75f2fa"
 }
